@@ -1,3 +1,9 @@
 [submodule "Worldcup-Database"]
 	path = Worldcup-Database
 	url = https://github.com/PepeLavadoRalo/worldcup-database
+[submodule "worldcup-database"]
+	path = worldcup-database
+	url = https://github.com/PepeLavadoRalo/worldcup-database
+[submodule "Learn-Periodic-Table-Database"]
+	path = Learn-Periodic-Table-Database
+	url = https://github.com/PepeLavadoRalo/learn-periodic-table-database
