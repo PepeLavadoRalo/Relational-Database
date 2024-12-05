@@ -1,0 +1,3 @@
+[submodule "Worldcup-Database"]
+	path = Worldcup-Database
+	url = https://github.com/PepeLavadoRalo/worldcup-database
