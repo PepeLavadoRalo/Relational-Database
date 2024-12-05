@@ -7,3 +7,6 @@
 [submodule "Learn-Periodic-Table-Database"]
 	path = Learn-Periodic-Table-Database
 	url = https://github.com/PepeLavadoRalo/learn-periodic-table-database
+[submodule "Number-Guessing-Game"]
+	path = Number-Guessing-Game
+	url = https://github.com/PepeLavadoRalo/Number-Guessing-Name
