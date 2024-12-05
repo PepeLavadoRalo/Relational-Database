@@ -10,3 +10,6 @@
 [submodule "Number-Guessing-Game"]
 	path = Number-Guessing-Game
 	url = https://github.com/PepeLavadoRalo/Number-Guessing-Name
+[submodule "Salon"]
+	path = Salon
+	url = https://github.com/PepeLavadoRalo/salon
