@@ -1,0 +1,4 @@
+Simulated user guesses:
+Guess 1: 500
+Guess 2: 250
+Guess 3: 375
